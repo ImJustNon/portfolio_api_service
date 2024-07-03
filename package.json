@@ -40,5 +40,10 @@
 		"prisma:migrate": "npx prisma migrate dev",
 		"prisma:studio": "npx prisma studio",
 		"build:clean": "yarn clean-build && yarn build"
-	}
+	},
+	"pre-commit": [
+		"ts.check",
+		"build",
+		"add-build"
+  	]
 }
