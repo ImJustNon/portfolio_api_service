@@ -18,4 +18,3 @@ function getActivities() {
     }
     return activities;
 }
-//# sourceMappingURL=activities.data.js.map

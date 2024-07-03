@@ -18,4 +18,3 @@ function getActivities() {
     }
     return activityBanners;
 }
-//# sourceMappingURL=banners.data.js.map

@@ -32,4 +32,3 @@ function getCertificateByCategory(req, res) {
     });
     return;
 }
-//# sourceMappingURL=certificates.controller.js.map
