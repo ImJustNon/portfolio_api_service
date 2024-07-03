@@ -38,8 +38,7 @@
 		"start": "node ./dist/index.js",
 		"dev": "nodemon ./index.ts",
 		"prisma:migrate": "npx prisma migrate dev",
-		"prisma:studio": "npx prisma studio",
-		"build:clean": "yarn clean-build && yarn build"
+		"prisma:studio": "npx prisma studio"
 	},
 	"pre-commit": [
 		"ts.check",
