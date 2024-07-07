@@ -5,7 +5,11 @@ exports.getCertificateById = getCertificateById;
 exports.getCertificateByCategory = getCertificateByCategory;
 const certificates_data_1 = require("../data/certificates/certificates.data");
 function getCertificateAll(req, res) {
-    res.json((0, certificates_data_1.getCertificates)());
+    res.json({
+        status: "OK",
+        message: "This is activities data",
+        data: (0, certificates_data_1.getCertificates)()
+    });
     return;
 }
 function getCertificateById(req, res) {
@@ -17,7 +21,7 @@ function getCertificateById(req, res) {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: (_a = filterCertificateDataById[0]) !== null && _a !== void 0 ? _a : {},
+        data: (_a = filterCertificateDataById[0]) !== null && _a !== void 0 ? _a : [],
     });
     return;
 }

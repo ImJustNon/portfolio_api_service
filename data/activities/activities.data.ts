@@ -4,7 +4,7 @@ import path from "path";
 
 export function getActivities(){
     let activities: Activities = {};
-    const scanForActivityJsonFile: string[] = fs.readdirSync(path.join(__dirname, "./json")).filter(filename => filename.endsWith(".json"));
+    const scanForActivityJsonFile: string[] = fs.readdirSync(path.join(__dirname, "./json")).filter(filename => filename.endsWith(".json") && filename !== "banners.json");
     for(const filename of scanForActivityJsonFile){
         const fileData: string = fs.readFileSync(path.join(__dirname, "./json", filename), {
             encoding: "utf8",

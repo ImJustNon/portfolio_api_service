@@ -16,6 +16,5 @@ function getCertificates() {
         const parseJsonData = JSON.parse(fileData);
         certificates = Object.assign(Object.assign({}, parseJsonData), certificates);
     }
-    console.log(certificates);
     return certificates;
 }

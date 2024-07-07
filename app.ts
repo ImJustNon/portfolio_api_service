@@ -6,7 +6,8 @@ import config from "./config/config";
 import { CorsOriginCallbackFunction, CorsOriginParam } from "./types/corsOptions.type";
 import morgan from "morgan";
 import createHttpError from "http-errors";
-import certificateRouter from "./routes/certificates.route";
+import certificatesRouter from "./routes/certificates.route";
+import activitiesRouter from "./routes/activities.route";
 
 const app: Application = express();
 const urlEncoded: NextHandleFunction = bodyParser.urlencoded({
@@ -36,7 +37,8 @@ app.use(urlEncoded);
 app.use(jsonEncoded);
 app.use(morganLog);
 
-app.use("/api", certificateRouter);
+app.use("/api", certificatesRouter);
+app.use("/api", activitiesRouter);
 
 
 export default app;

@@ -5,7 +5,11 @@ import { Certificate, CertificateCategory, Certificates } from "../types/certifi
 import { getCertificates } from "../data/certificates/certificates.data";
 
 function getCertificateAll(req: Request, res: Response): void {
-    res.json(getCertificates());
+    res.json({
+        status: "OK",
+        message: "This is activities data",
+        data: getCertificates()
+    });
     return;
 }
 
@@ -20,7 +24,7 @@ function getCertificateById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: filterCertificateDataById[0] ?? {},
+        data: filterCertificateDataById[0] ?? [],
     });
     return;
 }

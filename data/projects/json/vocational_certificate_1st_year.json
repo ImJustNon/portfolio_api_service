@@ -1,0 +1,140 @@
+{
+    "vocational_certificate_1st_year": [
+        {
+            "id": "proj_vc_1_1",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/upload_api.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/upload_api.jpg",
+            "title": [
+                "Image Upload API"
+            ],
+            "description": [
+                "API อัปโหลดรูปภาพ",
+                "สามารถนำไปใช้ในเว็ปไซต์ที่ต้องการการจัดเก็บรูปภาพ",
+                "หรือเป็นที่สำรองภาพนั้นๆได้"
+            ],
+            "links": [
+                {
+                    "name": " MySQL Version (V.2)",
+                    "url": "https://github.com/ImJustNon/upload-api-mysql-version"
+                },
+                {
+                    "name": " PostgreSQL Version (V.1)",
+                    "url": "https://github.com/ImJustNon/Upload-API"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_2",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/useless_api-crop.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/useless_api-crop.png",
+            "title": [
+                "Useless API",
+                "(ก็ไม่ได้ไรประโยชน์ซ่ะที่เดียวอ่ะน่ะ)"
+            ],
+            "description": [
+                "เกิดจากชอบมีคนส่งลิ้ง หรือ QR ที่มีโฆษณาคั่น",
+                "- สามารถทำให้ 'URL' ที่ยาวๆ ให่สั้นลงได้ 💨",
+                "- สามารถสร้าง QR จากข้อความหรือ 'URL' ได้ 💨"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/upload-api-mysql-version"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_3",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/give_me_aungpao_web.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/give_me_aungpao_web.jpg",
+            "title": [
+                "🧧 เว็ปรับอั่งเปาของผมเอง 🧧"
+            ],
+            "description": [
+                "สร้าง Link อั่งเปาที่ True Wallet",
+                "เเล้วสามารถส่งให้ในนี้ได้เลย"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/give-me-aungpao"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_4",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/my_personal_portfolio.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/my_personal_portfolio.jpg",
+            "title": [
+                "📊 เว็ปไซต์ส่วนตัวของผมเอง 📊"
+            ],
+            "description": [
+                "มีข้อมูลต่างๆของผมเช่น",
+                "ประวัติส่วนตัว | เกียรติบัตร | กิจกรรมที่เข้าร่วม | โปรเจค"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/my-personal-web"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_5",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/image-gallery.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/image-gallery.jpg",
+            "title": [
+                "Image Gallery Project"
+            ],
+            "description": [
+                "เว็ปฝากรูปเพื่อความสะดวกในการส่งให้ผู้อื่น",
+                "หรือการนำไปใช้ต่างๆ"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/image-gallery-project"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_6",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/sbtvc-dormitory-access-system-crop.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/sbtvc-dormitory-access-system-crop.png",
+            "title": [
+                "ระบบการขอเข้า-ออกหอพักออนไลน์",
+                "พร้อมหน้าจัดการ (Admin Panel)"
+            ],
+            "description": [
+                "โปรเจค PJBL ปี 1"
+            ],
+            "links": [
+                {
+                    "name": " Main",
+                    "url": "https://github.com/ImJustNon/sbtvc-dormitory-system-website"
+                },
+                {
+                    "name": " Admin Panel",
+                    "url": "https://github.com/ImJustNon/sbtvc-dormitory-system-admin"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_1_7",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/dear_debtor_v2.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/dear_debtor_v2.jpg",
+            "title": [
+                "Dear Debtor V2"
+            ],
+            "description": [
+                "🤑 เว็ปบันทึกเหล่าลูกหนี้ที่รักของผมเอง 🤑"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/dear-debtor-v2"
+                }
+            ]
+        }
+    ]
+}
