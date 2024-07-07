@@ -16,5 +16,7 @@ export function getCertificates(){
         }
     }
 
+    console.log(certificates);
+
     return certificates;
 }

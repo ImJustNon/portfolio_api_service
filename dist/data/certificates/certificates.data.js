@@ -1,11 +1,8 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getCertificates = getCertificates;
-const fs_1 = __importDefault(require("fs"));
-const path_1 = __importDefault(require("path"));
+const fs_1 = require("fs");
+const path_1 = require("path");
 function getCertificates() {
     let certificates = {};
     const scanForCertificateJsonFile = fs_1.default.readdirSync(path_1.default.join(__dirname, "./json")).filter(filename => filename.endsWith(".json"));
@@ -16,5 +13,7 @@ function getCertificates() {
         const parseJsonData = JSON.parse(fileData);
         certificates = Object.assign(Object.assign({}, parseJsonData), certificates);
     }
+    console.log(certificates);
     return certificates;
 }
+//# sourceMappingURL=certificates.data.js.map
