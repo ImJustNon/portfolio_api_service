@@ -1,11 +1,14 @@
 "use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
-const body_parser_1 = require("body-parser");
-const express_1 = require("express");
-const cors_1 = require("cors");
-const config_1 = require("./config/config");
-const morgan_1 = require("morgan");
-const certificates_route_1 = require("./routes/certificates.route");
+const body_parser_1 = __importDefault(require("body-parser"));
+const express_1 = __importDefault(require("express"));
+const cors_1 = __importDefault(require("cors"));
+const config_1 = __importDefault(require("./config/config"));
+const morgan_1 = __importDefault(require("morgan"));
+const certificates_route_1 = __importDefault(require("./routes/certificates.route"));
 const app = (0, express_1.default)();
 const urlEncoded = body_parser_1.default.urlencoded({
     limit: "50mb",
@@ -33,4 +36,3 @@ app.use(jsonEncoded);
 app.use(morganLog);
 app.use("/api", certificates_route_1.default);
 exports.default = app;
-//# sourceMappingURL=app.js.map
