@@ -40,10 +40,5 @@
 		"dev": "nodemon ./index.ts",
 		"prisma:migrate": "npx prisma migrate dev",
 		"prisma:studio": "npx prisma studio"
-	},
-	"pre-commit": [
-		"ts.check",
-		"build",
-		"add-build"
-	]
+	}
 }
