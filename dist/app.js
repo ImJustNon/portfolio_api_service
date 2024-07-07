@@ -38,3 +38,4 @@ app.use(morganLog);
 app.use("/api", certificates_route_1.default);
 app.use("/api", activities_route_1.default);
 exports.default = app;
+//# sourceMappingURL=app.js.map

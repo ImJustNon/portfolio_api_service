@@ -12,3 +12,4 @@ router.get("/v1/activities/bycategory/:category", activities_controller_1.getAct
 router.get("/v1/activities/banners/all", activities_controller_1.getActivityBannerAll);
 router.get("/v1/activities/banners/bycategory/:category", activities_controller_1.getActivityBannerByCategory);
 exports.default = router;
+//# sourceMappingURL=activities.route.js.map

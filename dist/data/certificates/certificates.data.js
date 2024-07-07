@@ -18,3 +18,4 @@ function getCertificates() {
     }
     return certificates;
 }
+//# sourceMappingURL=certificates.data.js.map

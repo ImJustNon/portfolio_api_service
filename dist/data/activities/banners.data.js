@@ -15,3 +15,4 @@ function getActivityBanners() {
     activityBanners = Object.assign({}, parseJsonData);
     return activityBanners;
 }
+//# sourceMappingURL=banners.data.js.map

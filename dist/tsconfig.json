@@ -10,7 +10,9 @@
         "skipLibCheck": true,
         "resolveJsonModule": true,
         "incremental": true,
-        "removeComments": true
+        "removeComments": true,
+        "sourceMap": true,
+        "declaration": true
     },
     "include": [
         "./**/*",

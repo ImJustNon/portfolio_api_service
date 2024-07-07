@@ -11,6 +11,8 @@
     "resolveJsonModule": true,  /* Enable import of JSON modules */
     "incremental": true,
     "removeComments": true,
+    "sourceMap": true,
+    "declaration": true
   },
   "include": [
     "./**/*",

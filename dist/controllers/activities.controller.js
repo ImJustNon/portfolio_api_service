@@ -58,3 +58,4 @@ function getActivityBannerByCategory(req, res) {
     });
     return;
 }
+//# sourceMappingURL=activities.controller.js.map
