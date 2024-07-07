@@ -1,0 +1,193 @@
+{
+    "vocational_certificate_2nd_year": [
+        {
+            "id": "cert_vc_2_1",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_kmitl_openhouse_2023_tcasfair.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_kmitl_openhouse_2023_tcasfair.jpg",
+            "title": [
+                "เข้าร่วมงาน KMITL OPEN HOUSE",
+                "@TCAS-Fair 2023"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_2",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_kmitl_openhouse_cprograming.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_kmitl_openhouse_cprograming.jpg",
+            "title": [
+                "เข้าร่วมงาน K-Engineering World Tour and Workshop 2023",
+                "การอบรม C Programming Language"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_3",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_singapore_exchange_ite.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_singapore_exchange_ite.jpg",
+            "title": [
+                "โครงการนักเรียนเเลกเปลี่ยน",
+                "THAI - SIGAPORE ไปศึกษาที่",
+                "Institute of Technical Education (ITE) College Central",
+                "(OUTBOUND)"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_4",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_singapore_exchange_sbtvc.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_singapore_exchange_sbtvc.jpg",
+            "title": [
+                "โครงการนักเรียนเเลกเปลี่ยน",
+                "THAI - SIGAPORE ไปศึกษาที่",
+                "Institute of Technical Education (ITE) College Central",
+                "(INBOUND)"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_5",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_solidworks_practice.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_solidworks_practice.jpg",
+            "title": [
+                "เข้าร่วมกิจกรรม : การฝึกอบรมส่งเสริม",
+                "พัฒนาสมรรถนะผู้เรียนด้านการออกเเบบ",
+                "ชิ้นงานวิศวกรรมด้วยโปรเเกรม",
+                "SolidWorks"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_6",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_stem_certificate_1.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/compressed_stem_certificate_1.jpg",
+            "title": [
+                "รางวัลชนะเลิศ",
+                "การประกวดผลงาน STEM ระดับ ปวช.",
+                "ระดับอาชีวศึกษาจังหวัดชลบุรี"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_7",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_1.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_1.jpg",
+            "title": [
+                "รางวัลชนะเลิศ",
+                "การประกวดผลงาน STEM ระดับ ปวช.",
+                "ระดับอาชีวศึกษาจังหวัดชลบุรี"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_8",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_2.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_2.jpg",
+            "title": [
+                "รางวัลชนะเลิศ",
+                "การประกวดผลงาน STEM ระดับ ปวช.",
+                "ระดับภาค ภาคตะวันออกเเละกรุงเทพมหานคร"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_9",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_certificate_3.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/stem_certificate_3.png",
+            "title": [
+                "รางวัลชนะเลิศ",
+                "การประกวดผลงาน STEM ระดับ ปวช.",
+                "ระดับชาติ ประจำปี 2566"
+            ],
+            "description": [
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_10",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/hackathon_cer.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/hackathon_cer.jpg",
+            "title": [
+                "รางวัลเข้าร่วม",
+                "การเเข่งขัน IoT HACKATHON 2024 สำหรับสถาบันอาชีวศึกษา"
+            ],
+            "description": [
+                "Theme : Industrial AIoT Applications for Competitive & Smart Manufacturing",
+                "ณ ศูนย์เทคโนโลยีอิเล็กทรอนิกส์เเละคอมพิวเตอร์เเห่งชาติ",
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_11",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/optimized_jelly_certificate.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/optimized_jelly_certificate.jpg",
+            "title": [
+                "รางวัลชมเชย ระดับเหรียญเงิน",
+                "การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่",
+                " ระดับอาชีวศึกษาจังหวัดชลบุรี ประจำปีการศึกษา 2566",
+                "สิ่งประดิษฐ์ด้านนวัตกรรมและเทคโนโลยีอาหาร"
+            ],
+            "description": [
+                "การพัฒนาผลิตภัณฑ์กัมมี่เยลลี่ฝรั่งเสริมพรีไบโอติก",
+                "วันที่ 15 ธันวาคม พ.ศ. 2566",
+                "ณ วิทยาลัยเทคนิคสัตหีบ จังหวัดชลบุรี",
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_12",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/optimized_invention_certificate.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/optimized_invention_certificate.jpg",
+            "title": [
+                "รางวัลชมเชย",
+                "การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่",
+                "ระดับอาชีวศึกษาจังหวัดชลบุรี ประจำปีการศึกษา 2566",
+                "สิ่งประดิษฐ์ด้านนวัตกรรมและเทคโนโลยีดิจิทัลปัญญาประดิษฐ์"
+            ],
+            "description": [
+                "ระบบการเข้า-ออกหอพัก ของนักศึกษาวิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)",
+                "วันที่ 15 ธันวาคม พ.ศ. 2566",
+                "ณ วิทยาลัยเทคนิคสัตหีบ จังหวัดชลบุรี",
+                "ชั้น : ปวช.2"
+            ]
+        },
+        {
+            "id": "cert_vc_2_13",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/intern_cer.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/intern_cer.jpg",
+            "title": [
+                "หนังสือรับรอง การฝึกงาน/ฝึกประสบการณ์วิชาชีพ"
+            ],
+            "description": [
+                "บริษัท เอยูเอ็ม เรียลเอสเตท จำกัด",
+                "ทำตำเเหน่ง ผู้ดูเเลเพจบริษัท"
+            ]
+        },
+        {
+            "id": "cert_vc_2_14",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/english_test_2024.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/english_test_2024.jpg",
+            "title": [
+                "ทดสอบวัดระดับภาษาอังกฤษอยู่ที่ระดับ B1"
+            ],
+            "description": [
+                "ได้เข้าวัดระดับทักษะภาษาอังกฤษของบริษัท Edusoft ซึ่งเป็นบริษัทย่อยของ ETS ที่เป็นบริษัทผู้สร้าง TOELF เเละ TOEIC นั่นเอง"
+            ]
+        }
+    ]
+}
