@@ -10,6 +10,34 @@
             "description": [
                 "ได้เข้าวัดระดับทักษะภาษาอังกฤษของบริษัท Edusoft ซึ่งเป็นบริษัทย่อยของ ETS ที่เป็นบริษัทผู้สร้าง TOELF เเละ TOEIC นั่นเอง"
             ]
+        },
+        {
+            "id": "cert_vc_3_2",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/science-project-voc-cert-3.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/science-project-voc-cert-3.jpg",
+            "title": [
+                "ได้รับรางวัลรองชนะเลิศอันดับ 2",
+                "การประกวดโครงงานวิทยาศาสตร์อาชีวศึกษา ระดับอาชีวศึกษาจังหวัดชลบุรี"
+            ],
+            "description": [
+                "ระดับประกาศนียบัตรวิชาชีพ (ปวช.)",
+                "วันที่ 27 มิถุนายน พ.ศ. 2567",
+                "ณ วิทยาลัยเทคนิคชลบุรี"
+            ]
+        },
+        {
+            "id": "cert_vc_3_3",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/science-proj-2.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/science-proj-2.png",
+            "title": [
+                "ได้รับรางวัลชมเชย เหรียญเงิน",
+                "การประกวดโครงงานวิทยาศาสตร์อาชีวศึกษา ระดับภาค ภาคตะวันออกและกรุงเทพมหานคร"
+            ],
+            "description": [
+                "ระดับประกาศนียบัตรวิชาชีพ (ปวช.)",
+                "ระหว่างวันที่ 18 - 19 กรกฎาคม พ.ศ. 2567",
+                "ณ วิทยาลัยเทคนิคจันทบุรี จังหวัดจันทบุรี"
+            ]
         }
     ]
 }
