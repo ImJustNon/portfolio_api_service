@@ -1,0 +1,160 @@
+{
+    "frameworks": [
+        {
+            "id": "framework_1",
+            "name": "Arduino",
+            "img": "https://skillicons.dev/icons?i=arduino",
+            "url": "https://skillicons.dev/icons?i=arduino"
+        },
+        {
+            "id": "framework_2",
+            "name": "Bootstrap",
+            "img": "https://skillicons.dev/icons?i=bootstrap",
+            "url": "https://skillicons.dev/icons?i=bootstrap"
+        },
+        {
+            "id": "framework_3",
+            "name": "Docker",
+            "img": "https://skillicons.dev/icons?i=docker",
+            "url": "https://skillicons.dev/icons?i=docker"
+        },
+        {
+            "id": "framework_4",
+            "name": "ExpressJS",
+            "img": "https://skillicons.dev/icons?i=express",
+            "url": "https://skillicons.dev/icons?i=express"
+        },
+        {
+            "id": "framework_5",
+            "name": "Git",
+            "img": "https://skillicons.dev/icons?i=git",
+            "url": "https://skillicons.dev/icons?i=git"
+        },
+        {
+            "id": "framework_6",
+            "name": "GitHub",
+            "img": "https://skillicons.dev/icons?i=github",
+            "url": "https://skillicons.dev/icons?i=github"
+        },
+        {
+            "id": "framework_7",
+            "name": "GitLab",
+            "img": "https://skillicons.dev/icons?i=gitlab",
+            "url": "https://skillicons.dev/icons?i=gitlab"
+        },
+        {
+            "id": "framework_8",
+            "name": "MongoDB",
+            "img": "https://skillicons.dev/icons?i=mongodb",
+            "url": "https://skillicons.dev/icons?i=mongodb"
+        },
+        {
+            "id": "framework_9",
+            "name": "MySQL",
+            "img": "https://skillicons.dev/icons?i=mysql",
+            "url": "https://skillicons.dev/icons?i=mysql"
+        },
+        {
+            "id": "framework_10",
+            "name": "NextJS",
+            "img": "https://skillicons.dev/icons?i=nextjs",
+            "url": "https://skillicons.dev/icons?i=nextjs"
+        },
+        {
+            "id": "framework_11",
+            "name": "NodeJS",
+            "img": "https://skillicons.dev/icons?i=nodejs",
+            "url": "https://skillicons.dev/icons?i=nodejs"
+        },
+        {
+            "id": "framework_12",
+            "name": "PlanetScale",
+            "img": "https://skillicons.dev/icons?i=planetscale",
+            "url": "https://skillicons.dev/icons?i=planetscale"
+        },
+        {
+            "id": "framework_13",
+            "name": "PostgreSQL",
+            "img": "https://skillicons.dev/icons?i=postgres",
+            "url": "https://skillicons.dev/icons?i=postgres"
+        },
+        {
+            "id": "framework_14",
+            "name": "Postman",
+            "img": "https://skillicons.dev/icons?i=postman",
+            "url": "https://skillicons.dev/icons?i=postman"
+        },
+        {
+            "id": "framework_15",
+            "name": "Prisma",
+            "img": "https://skillicons.dev/icons?i=prisma",
+            "url": "https://skillicons.dev/icons?i=prisma"
+        },
+        {
+            "id": "framework_16",
+            "name": "PowerShell",
+            "img": "https://skillicons.dev/icons?i=powershell",
+            "url": "https://skillicons.dev/icons?i=powershell"
+        },
+        {
+            "id": "framework_17",
+            "name": "RaspberryPi",
+            "img": "https://skillicons.dev/icons?i=raspberrypi",
+            "url": "https://skillicons.dev/icons?i=raspberrypi"
+        },
+        {
+            "id": "framework_18",
+            "name": "ReactJS",
+            "img": "https://skillicons.dev/icons?i=react",
+            "url": "https://skillicons.dev/icons?i=react"
+        },
+        {
+            "id": "framework_19",
+            "name": "Replit",
+            "img": "https://skillicons.dev/icons?i=replit",
+            "url": "https://skillicons.dev/icons?i=replit"
+        },
+        {
+            "id": "framework_20",
+            "name": "StackOverflow",
+            "img": "https://skillicons.dev/icons?i=stackoverflow",
+            "url": "https://skillicons.dev/icons?i=stackoverflow"
+        },
+        {
+            "id": "framework_21",
+            "name": "Supabase",
+            "img": "https://skillicons.dev/icons?i=supabase",
+            "url": "https://skillicons.dev/icons?i=supabase"
+        },
+        {
+            "id": "framework_22",
+            "name": "TailWindCSS",
+            "img": "https://skillicons.dev/icons?i=tailwind",
+            "url": "https://skillicons.dev/icons?i=tailwind"
+        },
+        {
+            "id": "framework_23",
+            "name": "Vercel",
+            "img": "https://skillicons.dev/icons?i=vercel",
+            "url": "https://skillicons.dev/icons?i=vercel"
+        },
+        {
+            "id": "framework_24",
+            "name": "Vite",
+            "img": "https://skillicons.dev/icons?i=vite",
+            "url": "https://skillicons.dev/icons?i=vite"
+        },
+        {
+            "id": "framework_25",
+            "name": "Visual Studio Code",
+            "img": "https://skillicons.dev/icons?i=vscode",
+            "url": "https://skillicons.dev/icons?i=vscode"
+        },
+        {
+            "id": "framework_26",
+            "name": "SQLite",
+            "img": "https://skillicons.dev/icons?i=sqlite",
+            "url": "https://skillicons.dev/icons?i=sqlite"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "languages": [
+        {
+            "id": "lang_1",
+            "name": "Bash",
+            "img": "https://skillicons.dev/icons?i=bash",
+            "url": "https://skillicons.dev/icons?i=bash"
+        },
+        {
+            "id": "lang_2",
+            "name": "Babel",
+            "img": "https://skillicons.dev/icons?i=babel",
+            "url": "https://skillicons.dev/icons?i=babel"
+        },
+        {
+            "id": "lang_3",
+            "name": "C",
+            "img": "https://skillicons.dev/icons?i=c",
+            "url": "https://skillicons.dev/icons?i=c"
+        },
+        {
+            "id": "lang_4",
+            "name": "C++",
+            "img": "https://skillicons.dev/icons?i=cpp",
+            "url": "https://skillicons.dev/icons?i=cpp"
+        },
+        {
+            "id": "lang_5",
+            "name": "CSS",
+            "img": "https://skillicons.dev/icons?i=css",
+            "url": "https://skillicons.dev/icons?i=css"
+        },
+        {
+            "id": "lang_6",
+            "name": "HTML",
+            "img": "https://skillicons.dev/icons?i=html",
+            "url": "https://skillicons.dev/icons?i=html"
+        },
+        {
+            "id": "lang_7",
+            "name": "JavaScript",
+            "img": "https://skillicons.dev/icons?i=js",
+            "url": "https://skillicons.dev/icons?i=js"
+        },
+        {
+            "id": "lang_8",
+            "name": "Python",
+            "img": "https://skillicons.dev/icons?i=py",
+            "url": "https://skillicons.dev/icons?i=py"
+        },
+        {
+            "id": "lang_9",
+            "name": "Markdown",
+            "img": "https://skillicons.dev/icons?i=md",
+            "url": "https://skillicons.dev/icons?i=md"
+        },
+        {
+            "id": "lang_10",
+            "name": "TypeScript",
+            "img": "https://skillicons.dev/icons?i=ts",
+            "url": "https://skillicons.dev/icons?i=ts"
+        },
+        {
+            "id": "lang_11",
+            "name": "Lua",
+            "img": "https://skillicons.dev/icons?i=lua",
+            "url": "https://skillicons.dev/icons?i=lua"
+        },
+        {
+            "id": "lang_12",
+            "name": "SQL",
+            "img": "https://skillicons.dev/icons?i=mysql",
+            "url": "https://skillicons.dev/icons?i=mysql"
+        },
+        {
+            "id": "lang_13",
+            "name": "SCSS",
+            "img": "https://skillicons.dev/icons?i=sass",
+            "url": "https://skillicons.dev/icons?i=sass"
+        },
+        {
+            "id": "lang_14",
+            "name": "NodeJS",
+            "img": "https://skillicons.dev/icons?i=nodejs",
+            "url": "https://skillicons.dev/icons?i=nodejs"
+        }
+    ]
+}

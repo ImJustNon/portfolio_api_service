@@ -11,6 +11,7 @@ const morgan_1 = __importDefault(require("morgan"));
 const certificates_route_1 = __importDefault(require("./routes/certificates.route"));
 const activities_route_1 = __importDefault(require("./routes/activities.route"));
 const projects_route_1 = __importDefault(require("./routes/projects.route"));
+const stacks_route_1 = __importDefault(require("./routes/stacks.route"));
 const app = (0, express_1.default)();
 const urlEncoded = body_parser_1.default.urlencoded({
     limit: "50mb",
@@ -39,5 +40,6 @@ app.use(morganLog);
 app.use("/api", certificates_route_1.default);
 app.use("/api", activities_route_1.default);
 app.use("/api", projects_route_1.default);
+app.use("/api", stacks_route_1.default);
 exports.default = app;
 //# sourceMappingURL=app.js.map
