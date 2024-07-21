@@ -2,8 +2,8 @@
     "vocational_certificate_2nd_year": [
         {
             "id": "proj_vc_2_1",
-            "img": "assets/images/projects/bio_page.jpg",
-            "url": "assets/images/projects/bio_page.jpg",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/bio_page.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/bio_page.jpg",
             "title": [
                 "✨ NonLnwza Bio Page"
             ],
