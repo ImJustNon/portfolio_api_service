@@ -5,15 +5,20 @@
             "img": "",
             "url": "",
             "title": [
-                ""
+                "Weather Mini Project"
             ],
             "description": [
-                ""
+                "เมื่ออาจารย์ให้คุณทำเว็ปเเอพพลิเคชันเเสดงสภาพอากาศจาก HTML CSS JS ปรกติ",
+                "เเต่คุณมี Stacks ที่มากกว่านั้น เว็ปนี้จึงใช้ NextJS + TypeScript + TailWindCSS"
             ],
             "links": [
                 {
-                    "name": "",
-                    "url": ""
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/Weather-MiniProject-pTong"
+                },
+                {
+                    "name": " Preview",
+                    "url": "https://weather-miniproject.vercel.app"
                 }
             ]
         }

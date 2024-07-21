@@ -165,6 +165,100 @@
                     "url": "https://github.com/ImJustNon/shorturl_backend"
                 }
             ]
+        },
+        {
+            "id": "proj_vc_2_10",
+            "img": "",
+            "url": "",
+            "title": [
+                "Listen.moe Clone"
+            ],
+            "description": [
+                "ตอนนั้นว่างไม่มีอะไรทำเเล้วได้ไปพบกับเว็ปนี้เเละเห็นว่า UI สวยดีเลยใช้เป็น Ref มาฝึก",
+                "React + Vite + Tailwind + ChakraUI"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/listen.moe-clone"
+                },
+                {
+                    "name": " Preview",
+                    "url": "https://listen-moe-ui-clone.vercel.app"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_2_11",
+            "img": "",
+            "url": "",
+            "title": [
+                "ShopXMaster Frontend"
+            ],
+            "description": [
+                "รับทำหน้า Frontend ให้ร้าน ShopXMaster",
+                "React + Tailwind + ChakraUI"
+            ],
+            "links": [
+                {
+                    "name": " Github (DEMO)",
+                    "url": "https://github.com/ImJustNon/ShopXMaster-Project"
+                },
+                {
+                    "name": " Preview (DEMO)",
+                    "url": "https://shopxmaster.vercel.app"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_2_12",
+            "img": "",
+            "url": "",
+            "title": [
+                "Upload API V.2"
+            ],
+            "description": [
+                "เวอร์ชันนี้จะใช้พื้นที่ Chat ใน Discord เพื่อบันทึกข้อมูลในนั้น",
+                "ExpressJS + MySQL + Prisma + DiscordJS + Multer"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/upload_api_v2"
+                },
+                {
+                    "name": " Docs",
+                    "url": "https://upload-api-v2.vercel.app/"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_2_13",
+            "img": "",
+            "url": "",
+            "title": [
+                "Alerting Medicine Box (Frontend)",
+                "(PjBL 3)"
+            ],
+            "description": [
+                "กล่องยานี้สามารถเเจ้งเตือนตามเวลาการทานยาที่ตั้งไว้",
+                "โดยจะมีหน้าเว็ปที่สามารถเข้าไปตั้งค่าเวลาเเจ้งเตือนได้",
+                "เเละตัวกล่องยาที่สามารถเเสดงไฟตามช่องที่ตั้งค่าไว้เเละมีเสียงเเจ้งเตือนเมื่อได้เวลาทานยา"
+            ],
+            "links": [
+                {
+                    "name": " Github (Frontend)",
+                    "url": "https://github.com/ImJustNon/KlongYaa-PjBL3-Frontend"
+                },
+                {
+                    "name": " Github (Backend)",
+                    "url": "https://github.com/ImJustNon/KlongYaa-PjBL3-Backend"
+                },
+                {
+                    "name": " Github (Arduino)",
+                    "url": "https://github.com/ImJustNon/KlongYaa-PjBL3-Client"
+                }
+            ]
         }
     ]
 }
