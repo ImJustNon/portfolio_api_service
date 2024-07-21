@@ -24,7 +24,7 @@ function getProjectById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: filterProjectDataById[0] ?? [],
+        data: filterProjectDataById ?? [],
     });
     return;
 }

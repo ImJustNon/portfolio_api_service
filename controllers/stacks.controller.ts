@@ -24,7 +24,7 @@ function getStackById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: filterStackDataById[0] ?? [],
+        data: filterStackDataById ?? [],
     });
     return;
 }

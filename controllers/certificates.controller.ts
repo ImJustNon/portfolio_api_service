@@ -24,7 +24,7 @@ function getCertificateById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: filterCertificateDataById[0] ?? [],
+        data: filterCertificateDataById ?? [],
     });
     return;
 }

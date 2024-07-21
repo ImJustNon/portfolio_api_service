@@ -43,7 +43,7 @@ function getSocialById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: filterSocialDataById[0] ?? [],
+        data: filterSocialDataById ?? [],
     });
     return;
 }
@@ -56,7 +56,7 @@ function getSocialByName(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: filterSocialDataById[0] ?? [],
+        data: filterSocialDataById ?? [],
     });
     return;
 }

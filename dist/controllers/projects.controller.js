@@ -13,7 +13,6 @@ function getProjectAll(req, res) {
     return;
 }
 function getProjectById(req, res) {
-    var _a;
     const { id } = req.params;
     const allProjects = (0, projects_data_1.getProjects)();
     const allProjectsArray = Object.values(allProjects).flat();
@@ -21,7 +20,7 @@ function getProjectById(req, res) {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: (_a = filterProjectDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterProjectDataById !== null && filterProjectDataById !== void 0 ? filterProjectDataById : [],
     });
     return;
 }

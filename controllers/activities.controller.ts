@@ -25,7 +25,7 @@ function getActivityById(req: Request, res: Response): void {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: filterActivityDataById[0] ?? [],
+        data: filterActivityDataById ?? [],
     });
     return;
 }

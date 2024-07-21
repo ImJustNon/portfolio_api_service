@@ -13,7 +13,6 @@ function getCertificateAll(req, res) {
     return;
 }
 function getCertificateById(req, res) {
-    var _a;
     const { id } = req.params;
     const allCertificates = (0, certificates_data_1.getCertificates)();
     const allCertificatesArray = Object.values(allCertificates).flat();
@@ -21,7 +20,7 @@ function getCertificateById(req, res) {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: (_a = filterCertificateDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterCertificateDataById !== null && filterCertificateDataById !== void 0 ? filterCertificateDataById : [],
     });
     return;
 }

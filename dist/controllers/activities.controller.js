@@ -16,7 +16,6 @@ function getActivityAll(req, res) {
     return;
 }
 function getActivityById(req, res) {
-    var _a;
     const { id } = req.params;
     const allActivities = (0, activities_data_1.getActivities)();
     const allActivitiesArray = Object.values(allActivities).flat();
@@ -24,7 +23,7 @@ function getActivityById(req, res) {
     res.json({
         status: "OK",
         message: "This is certificate data",
-        data: (_a = filterActivityDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterActivityDataById !== null && filterActivityDataById !== void 0 ? filterActivityDataById : [],
     });
     return;
 }

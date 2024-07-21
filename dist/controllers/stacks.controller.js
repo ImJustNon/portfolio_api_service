@@ -13,7 +13,6 @@ function getStackAll(req, res) {
     return;
 }
 function getStackById(req, res) {
-    var _a;
     const { id } = req.params;
     const allStacks = (0, stacks_data_1.getStacks)();
     const allStacksArray = Object.values(allStacks).flat();
@@ -21,7 +20,7 @@ function getStackById(req, res) {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: (_a = filterStackDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterStackDataById !== null && filterStackDataById !== void 0 ? filterStackDataById : [],
     });
     return;
 }

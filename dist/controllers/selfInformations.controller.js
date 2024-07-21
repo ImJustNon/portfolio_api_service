@@ -35,7 +35,6 @@ function getSocialAll(req, res) {
     return;
 }
 function getSocialById(req, res) {
-    var _a;
     const { id } = req.params;
     const allSocials = (0, socials_data_1.getSocials)();
     const allSocialsArray = Object.values(allSocials).flat();
@@ -43,12 +42,11 @@ function getSocialById(req, res) {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: (_a = filterSocialDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterSocialDataById !== null && filterSocialDataById !== void 0 ? filterSocialDataById : [],
     });
     return;
 }
 function getSocialByName(req, res) {
-    var _a;
     const { name } = req.params;
     const allSocials = (0, socials_data_1.getSocials)();
     const allSocialsArray = Object.values(allSocials).flat();
@@ -56,7 +54,7 @@ function getSocialByName(req, res) {
     res.json({
         status: "OK",
         message: "This is Project data",
-        data: (_a = filterSocialDataById[0]) !== null && _a !== void 0 ? _a : [],
+        data: filterSocialDataById !== null && filterSocialDataById !== void 0 ? filterSocialDataById : [],
     });
     return;
 }
