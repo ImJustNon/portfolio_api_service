@@ -29,7 +29,7 @@
                 "อายุ"
             ],
             "description": [
-                "${calAge(config.birthDate)} ขวบ"
+                "17 ขวบ"
             ]
         },
         {
