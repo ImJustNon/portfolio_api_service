@@ -1,0 +1,49 @@
+{
+    "socials": [
+        {
+            "id": "social_1",
+            "name": "Twitter",
+            "url": "https://twitter.com/NoNnYhA55"
+        },
+        {
+            "id": "social_2",
+            "name": "Youtube",
+            "url": "https://www.youtube.com/channel/UCCAlDdKswolIsOERlt0QWbw"
+        },
+        {
+            "id": "social_3",
+            "name": "Github",
+            "url": "https://github.com/ImJustNon"
+        },
+        {
+            "id": "social_4",
+            "name": "Steam",
+            "url": "https://steamcommunity.com/profiles/76561198980838273"
+        },
+        {
+            "id": "social_5",
+            "name": "Twitch",
+            "url": "https://www.twitch.tv/im_just_non"
+        },
+        {
+            "id": "social_6",
+            "name": "Email",
+            "url": "mailto:Not.Non_006@outlook.sg"
+        },
+        {
+            "id": "social_7",
+            "name": "Discord",
+            "url": "https://discord.com/users/708965153131200594"
+        },
+        {
+            "id": "social_8",
+            "name": "Spotify",
+            "url": "https://open.spotify.com/user/mvym46mna0nhjjvdt64l7m7uj"
+        },
+        {
+            "id": "social_9",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/not._non/"
+        }
+    ]
+}

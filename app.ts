@@ -10,6 +10,7 @@ import certificatesRouter from "./routes/certificates.route";
 import activitiesRouter from "./routes/activities.route";
 import projectsRouter from "./routes/projects.route";
 import stacksRouter from "./routes/stacks.route";
+import selfInformationsRouter from "./routes/selfInformations.route";
 
 const app: Application = express();
 const urlEncoded: NextHandleFunction = bodyParser.urlencoded({
@@ -43,6 +44,7 @@ app.use("/api", certificatesRouter);
 app.use("/api", activitiesRouter);
 app.use("/api", projectsRouter);
 app.use("/api", stacksRouter);
+app.use("/api", selfInformationsRouter);
 
 
 export default app;

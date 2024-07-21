@@ -1,0 +1,44 @@
+{
+    "schools": [
+        {
+            "id": "school_1",
+            "img": "assets/images/portfolio/ssm.jpg",
+            "url": "https://www.ssm.ac.th/",
+            "title": [
+                "จบการศึกษาระดับ มัธยมศึกษาปีที่3",
+                "โรงเรียนเซนต์เเมรี่ (สมุทรปราการ)"
+            ],
+            "description": [],
+            "links": [
+                {
+                    "name": "Facebook",
+                    "url": "https://web.facebook.com/SaintmarySM/"
+                },
+                {
+                    "name": "Website",
+                    "url": "https://www.ssm.ac.th/"
+                }
+            ]
+        },
+        {
+            "id": "school_2",
+            "img": "assets/images/portfolio/sbtvc.jpg",
+            "url": "http://sbtvc.ac.th/gcms/index.php",
+            "title": [
+                "กำลังศึกษาระดับ ปวช.",
+                "วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์ (ชลบุรี)"
+            ],
+            "description": [],
+            "links": [
+                {
+                    "name": "Facebook",
+                    "url": "https://web.facebook.com/sbtvc/"
+                },
+                {
+                    "name": "Website",
+                    "url": "http://sbtvc.ac.th/gcms/index.php"
+                }
+            ]
+        }
+    ]
+}
