@@ -168,8 +168,8 @@
         },
         {
             "id": "proj_vc_2_10",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/listen-moe-clone.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/listen-moe-clone.png",
             "title": [
                 "Listen.moe Clone"
             ],
@@ -190,8 +190,8 @@
         },
         {
             "id": "proj_vc_2_11",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/shopxmaster.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/shopxmaster.png",
             "title": [
                 "ShopXMaster Frontend"
             ],
@@ -212,8 +212,8 @@
         },
         {
             "id": "proj_vc_2_12",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/upload-api-v2.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/upload-api-v2.png",
             "title": [
                 "Upload API V.2"
             ],
@@ -234,8 +234,8 @@
         },
         {
             "id": "proj_vc_2_13",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/pjbl3.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/pjbl3.jpg",
             "title": [
                 "Alerting Medicine Box (Frontend)",
                 "(PjBL 3)"
