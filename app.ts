@@ -8,6 +8,7 @@ import morgan from "morgan";
 import createHttpError from "http-errors";
 import certificatesRouter from "./routes/certificates.route";
 import activitiesRouter from "./routes/activities.route";
+import projectRouter from "./routes/projects.route";
 
 const app: Application = express();
 const urlEncoded: NextHandleFunction = bodyParser.urlencoded({
@@ -39,6 +40,7 @@ app.use(morganLog);
 
 app.use("/api", certificatesRouter);
 app.use("/api", activitiesRouter);
+app.use("/api", projectRouter);
 
 
 export default app;
