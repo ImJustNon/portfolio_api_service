@@ -38,6 +38,32 @@
                 "ระหว่างวันที่ 18 - 19 กรกฎาคม พ.ศ. 2567",
                 "ณ วิทยาลัยเทคนิคจันทบุรี จังหวัดจันทบุรี"
             ]
+        },
+        {
+            "id": "cert_vc_3_4",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/kengineer_compressed_1.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/kengineer_compressed_1.jpg",
+            "title": [
+                "ได้เข้าร่วมกิจกรรม Workshop หัวข้อ การบัดกรี พีซีบี",
+                "K-Engineering World Tour and Workshop 2024"
+            ],
+            "description": [
+                "วันที่ 4 สิงหาคม 2567",
+                "ณ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+            ]
+        },
+        {
+            "id": "cert_vc_3_5",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/kengineer_compressed_2.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/kengineer_compressed_2.jpg",
+            "title": [
+                "ได้เข้าร่วมกิจกรรม Workshop หัวข้อ สนุกกับเซนเซอร์เเละอิเล็กทรอนิกส์ในระบบไอโอที",
+                "K-Engineering World Tour and Workshop 2024"
+            ],
+            "description": [
+                "วันที่ 4 สิงหาคม 2567",
+                "ณ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+            ]
         }
     ]
 }
