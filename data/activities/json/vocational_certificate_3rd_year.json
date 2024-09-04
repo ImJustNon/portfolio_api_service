@@ -1,5 +1,40 @@
 {
     "vocational_certificate_3rd_year": [
-        
+        {
+            "id": "act_vc_2_3",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724817614506.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724817614506.jpg",
+            "title": [
+                "ได้รับรางวัลชนะเลิศการประกวด STEM ศึกษา",
+                "ระดับ ปวช. (ชาติ)"
+            ],
+            "description": [
+                "ณ วิทยาลัยเทคนิคสุพรรณบุรี (จ.สุพรรณบุรี)",
+                "ชั้น : ปวช.2"
+            ],
+            "details": {
+                "photos": [
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/optimized_Alerting Medicine Cabinet by Using IoT and Web Application .pdf (1).jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724817614506.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724817646710.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724910839662.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/1724910873626.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_1732.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_1733.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_1734.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_2115.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_3206.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_2405.JPG",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/raw/ICVSIP2024/IMG_2405.JPG"
+                ],
+                "description": [    
+                    "รางวัล ชนะเลิศ มาตรฐานเหรียญทอง การประกวดผลงานสะเต็มศึกษา (STEM Education) งานประชุมวิชาการองค์การนักวิชาชีพในอนาคตแห่งประเทศไทย (อวท.) การแข่งขันทักษะวิชาชีพ และทักษะพื้นฐาน ระดับชาติ ประจำปีการศึกษา 2566 วันที่ 5-9 กุมภาพันธ์ 2567 ณ วิทยาลัยเทคนิคสุพรรณบุรี",
+                    "สมาชิกทีม",
+                    "1.นายคณกร ไทยประโคน, 2.นายก้องภพ มีเจริญ, 3.นางสาวพรนภัส มานะบุตร, 4.นางสาวประภาภรณ์ ภูผาลี, 5.นายพุฒิกร พัสดุสาร",
+                    "ครูผู้ควบคุมทีม",
+                    "1.นายกิตติธร หนูวงศ์"
+                ]
+            }
+        }
     ]
 }
