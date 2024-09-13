@@ -64,6 +64,32 @@
                 "วันที่ 4 สิงหาคม 2567",
                 "ณ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
             ]
+        },
+        {
+            "id": "cert_vc_3_6",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/AFT_cer.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/AFT_cer.jpg",
+            "title": [
+                "เป็นสมาชิกคณะกรรมการดำเนินงานองค์การนักวิชาชีพในอนาคตแห่งประเทศไทย ประจำปีการศึกษา 2567",
+                "ตำแหน่ง คณะกรรมการ"
+            ],
+            "description": [
+                "วันที่ 12 กันยายน 2567",
+                "วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ขลบุรี)"
+            ]
+        },
+        {
+            "id": "cert_vc_3_7",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/how_to_say_no_yaba.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/certificates/how_to_say_no_yaba.jpg",
+            "title": [
+                "ได้รับรางวัลรองชนะเลิศอันดับ 1 ระดับอำเภอ",
+                "การประกวดโครงการสื่อสาร สร้างสรรค์ รู้เท่าทันยาบ้า (Be Smart Say No to Drugs)"
+            ],
+            "description": [
+                "วันที่ 5 สิงหาคม 2567",
+                "วีดีโอ : https://www.tiktok.com/@phitchaya_122/video/7392410757465509138?is_from_webapp=1&sender_device=pc&web_id=7339409978783434248"
+            ]
         }
     ]
 }
