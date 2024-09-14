@@ -1,0 +1,22 @@
+{
+            "id": "proj_vc_2_11",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/shopxmaster.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/main/assets/images/projects/shopxmaster.png",
+            "title": [
+                "ShopXMaster Frontend"
+            ],
+            "description": [
+                "รับทำหน้า Frontend ให้ร้าน ShopXMaster",
+                "React + Tailwind + ChakraUI"
+            ],
+            "links": [
+                {
+                    "name": " Github (DEMO)",
+                    "url": "https://github.com/ImJustNon/ShopXMaster-Project"
+                },
+                {
+                    "name": " Preview (DEMO)",
+                    "url": "https://shopxmaster.vercel.app"
+                }
+            ]
+        },
