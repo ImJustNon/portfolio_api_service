@@ -21,6 +21,29 @@
                     "url": "https://weather-miniproject.vercel.app"
                 }
             ]
+        },
+        {
+            "id": "proj_vc_3_2",
+            "img": "",
+            "url": "",
+            "title": [
+                "Portfolio API Service"
+            ],
+            "description": [
+                "ระบบ API หลังบ้านของเว็บ Portfolio ส่วนตัวของผมเอง",
+                "เพราะระบบเก่าเขียนจาก JS ทำให้เกินการล่มบ่อยครั้ง จึงทำให้ API ระบบนี้เขียนด้วย",
+                "TypeScript + ExpressJS"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/portfolio_api_service"
+                },
+                {
+                    "name": " Preview",
+                    "url": "https://portfolio-api-service.vercel.app/api/v1/selfinformations/all"
+                }
+            ]
         }
     ]
 }
