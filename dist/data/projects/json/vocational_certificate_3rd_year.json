@@ -24,8 +24,8 @@
         },
         {
             "id": "proj_vc_3_2",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/images/projects/port_api_service_pre.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/images/projects/port_api_service_pre.png",
             "title": [
                 "Portfolio API Service"
             ],
@@ -42,6 +42,60 @@
                 {
                     "name": " Preview",
                     "url": "https://portfolio-api-service.vercel.app/api/v1/selfinformations/all"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_3_2",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/images/projects/new_portfolio.png",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/images/projects/new_portfolio.png",
+            "title": [
+                "✨ Portfolio V.3 ✨"
+            ],
+            "description": [
+                "หน้าเว็บพอร์ดโฟลีโอ เวอร์ชั่น 3 เพราะระบบเก่าซึ่งเขียนจาก ExpressJS เเละ JS ทำให้ระบบค่อนข้างช้าเเละไม่ค่อยเสถียรจึงเเบ่งระบบออกเป็น Front เเละ Back ",
+                "ReactJS + TailwindCSS + ChakraUI"
+            ],
+            "links": [
+                {
+                    "name": " Github",
+                    "url": "https://github.com/ImJustNon/personal_portfolio_v3"
+                },
+                {
+                    "name": " Preview",
+                    "url": "https://portfolio.imnon.xyz/"
+                }
+            ]
+        },
+        {
+            "id": "proj_vc_3_3",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/ICVSIP2024/LINE_ALBUM_9th_240907_12.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/ICVSIP2024/LINE_ALBUM_9th_240907_12.jpg",
+            "title": [
+                "ตู้ยาเเจ้งเตือนการทานยาด้วยเทคโนโลยีไอโอที",
+                "Alerting Medicine Cabinet by Using IoT and Web Application"
+            ],
+            "description": [
+                "โปรเจค PjBL ลำดับที่ 4 ของพวกผม เเละ โปรเจคประกวดงานนานาชาติที่จังหวัดเชียงใหม่",
+                "โปรเจคนี้ได้ใช้ Stacks ทั้งหมดที่ผมมี คือ",
+                "ReactJS + TailwindCSS + ExpressJS + Typescript + ChakraUI + Arduino"
+            ],
+            "links": [
+                {
+                    "name": " Github (Web Frontend)",
+                    "url": "https://github.com/ImJustNon/TuuYaa-PjBL4-Frontend"
+                },
+                {
+                    "name": " Github (Web Backend)",
+                    "url": "https://github.com/ImJustNon/TuuYaa-PjBL4-Backend"
+                },
+                {
+                    "name": " Github (Arduino)",
+                    "url": "https://github.com/ImJustNon/TuuYaa-PjBL4-Arduino"
+                },
+                {
+                    "name": " Preview",
+                    "url": "https://mc2.it-project.site/"
                 }
             ]
         }
