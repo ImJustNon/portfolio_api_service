@@ -40,8 +40,8 @@
         },
         {
             "id": "act_vc_3_2",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/S__8101896_0.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/S__8101896_0.jpg",
             "title": [
                 "เป็นสมาชิกองค์การนักวิชาชีพในอนาคตเเห่งประเทศไทย",
                 "ตำเเหน่ง คณะกรรมการ ระดับ สถานศึกษา"
@@ -51,7 +51,12 @@
                 "ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)"
             ],
             "details": {
-                "photos": [],
+                "photos": [
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/788488_0.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/788492_0.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/S__8101896_0.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/IMG_20240912_0003_page-0001.jpg"
+                ],
                 "description": [
                     "อวท. คืออะไร ?",
                     "องค์การนักวิชาชีพในอนาคตเเห่งประเทศไทย หรือตัวย่อ อวท. นั้นจะคล้ายๆ กับ สภานักเรียนของโรงเรียนสายสามัญ พวกเราจะดำเนินงานทั้ง จัดกิจกรรมที่เกี่ยวข้อง ทำตามนโยบายที่ได้กล่าวไว้ เเละ อำนวยความสะดวกกับสมาชิกองค์การ",
@@ -64,8 +69,8 @@
         },
         {
             "id": "act_vc_3_3",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/S__8101901_0.jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/S__8101901_0.jpg",
             "title": [
                 "เป็นตัวเเทนชมรมวิชาชีพ ในผลงาน สมาชิกดีเด่น",
                 "เพื่อรับการคัดเลือกเป็นชมรมวิชาชีพดีเด่น ประจำปีการศึกษา 2567"
@@ -75,7 +80,9 @@
                 "ณ วิทยาลัยอาชีวศึกษาเทคโนโลยีฐานวิทยาศาสตร์(ชลบุรี)"
             ],
             "details": {
-                "photos": [],
+                "photos": [
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/AFT._handover_of_position/"
+                ],
                 "description": [
                     "ผมได้รับคัดเลือกเป็นตัวเเทน ชมรมวิชาชีพ ในผลงาน สมาชิกดีเด่น โดยคัดเลือกจากผลงานที่เด่นๆ อย่างของผมที่นำขึ้นโปสเตอร์เเละเล่มประกอบจะมี โครงการทุนเเลกเปลี่ยน THAI - SINGAPORE, รางวัลชนะเลิศการเเข่งขัน STEM ระดับชาติ, การเเข่งขัน Hackathon AIoT ที่จัดโดย NECTEC เเละ การเเข่งขัน Oral Presentation ในงานนานาชาติที่จังหวัดเชียงใหม่"
                 ]
@@ -83,8 +90,8 @@
         },
         {
             "id": "act_vc_3_4",
-            "img": "",
-            "url": "",
+            "img": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/S__38699019%20(1).jpg",
+            "url": "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/S__38699019%20(1).jpg",
             "title": [
                 "เข้าร่วมออกรายการ Teennovator วัยรุ่นกู้โลก ซีซัน 2"
             ],
@@ -93,7 +100,13 @@
                 "ณ SUPERJEEW Studio"
             ],
             "details": {
-                "photos": [],
+                "photos": [
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/1726907962223.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/1727053404762.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/image.png",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/S__38633497_0.jpg",
+                    "https://raw.githubusercontent.com/ImJustNon/portfolio_assets/refs/heads/main/assets/raw/teennovator/S__38699019%20(1).jpg"
+                ],
                 "description": [
                     "ได้เป็นหนึ่งในทีมตัวเเทนไปออกรายการ Teennovator วัยรุ่นกู้โลก ซีซั่น 2 โดยได้รับโจทย์เกี่ยวกับปัญหาการลืมเด็กไว้บนรถตู้ โดยพวกผมได้มีเเนวคิดที่จะสร้างนวัตกรรมที่ช่วยตรวจสอบว่ามีเด็กหลงเหลืออยู่ในรถตู้หรือไม่ หากตรวจพบจะเเจ้งเตือนที่ให้ผู้ดูเเล คนขับรถตู้ เเละผู้ปกครอง ทราบโดยทันที โดยปัจจุบันอยู่ในขั้นตอนการถ่ายทำ จึงทำให้สามารถเปิดเผยข้อมูลได้บ้างส่วนได้เท่านั้นครับ"
                 ]
