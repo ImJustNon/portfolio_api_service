@@ -46,5 +46,9 @@ app.use("/api", projectsRouter);
 app.use("/api", stacksRouter);
 app.use("/api", selfInformationsRouter);
 
+// app.get("/root", (req: Request, res: Response) => {
+//     res.json(config.allowedOrigins);
+// });
+
 
 export default app;
