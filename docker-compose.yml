@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: portfolio-api-service
+    ports:
+      - "8011:8080"
+    environment:
+      - PORT=8080
+      - BASEURL=http://localhost
+    restart: unless-stopped
